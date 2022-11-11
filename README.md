@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Ricardo Germinio and I'm a Full Stack Software developer
+- 👀 I'm interested in many things MMA, cooking, bible and I don't like superhero movies..
+-🌱 I'm learning Front End using Angular and React Frameworks and Spring Java on the backend
+- 💞️ I'm looking to collaborate on web and desktop projects
+- 📫 And you reach me at germinioricardo@gmail.com
