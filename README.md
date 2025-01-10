@@ -1,6 +1,6 @@
 ##  :bulb: Ricardo Germinio
 
-Graduado em Análise e Desenvolvimento de Sistemas, fiz meu primeiro código no CodeBlocks usando linguagem C e hoje foco meus estudos em Python e Javascript
+Graduado em Análise e Desenvolvimento de Sistemas, fiz meu primeiro código no Dev-C++ usando linguagem C e hoje foco meus estudos em Python e Javascript
 
 #### :office: Atuação Profissional
 
