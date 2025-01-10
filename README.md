@@ -12,7 +12,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, fiz meu primeiro código no 
 
 <br>
 
-[![Ricardo Germinio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardogerminio&theme=great-gatsby&show_icons=true)](https://github.com/ricardogerminio/github-readme-stats)
+[![Ricardo Germinio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardogerminio&theme=great-gatsby&show_icons=true&layout=compact)](https://github.com/ricardogerminio/github-readme-stats)
 
 #### Principais Linguagens Usadas
 
