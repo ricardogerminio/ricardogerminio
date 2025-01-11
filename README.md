@@ -6,9 +6,9 @@ Graduado em Análise e Desenvolvimento de Sistemas, fiz meu primeiro código no 
 
 * Atualmente Desempregado (**Em Busca de Emprego**)
 
-#### Últimos Projetos Trabalhados
+<!--#### Últimos Projetos Trabalhados
 
-#### Últimos Projetos de Estudo
+#### Últimos Projetos de Estudo-->
 
 #### :bar_chart: Estatísticas no Github
 
