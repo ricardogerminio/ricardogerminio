@@ -6,6 +6,10 @@ Graduado em Análise e Desenvolvimento de Sistemas, fiz meu primeiro código no 
 
 * Atualmente Desempregado (**Em Busca de Emprego**)
 
+#### Últimos Projetos Trabalhados
+
+#### Últimos Projetos de Estudo
+
 #### :bar_chart: Estatísticas no Github
 
 > :warning: Venho por meio desta, me comprometer a usar cada vez mais o Github :smile:
@@ -18,7 +22,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, fiz meu primeiro código no 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogerminio&layout=compact&theme=great-gatsby)](https://github.com/ricardogerminio/github-readme-stats)
 
-#### Contato
+#### :telephone_receiver: Contato
 
 <div>
 <a href="https://www.linkedin.com/in/ricardogerminio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
